@@ -1,6 +1,6 @@
 # SARAI ERP: Waheed Ghani
 
-> **Client project** · Built by [Rahimi Tech Solution](https://github.com/rahimiabdulrahmanab) · The source code is private to the client.
+> **Client project** · Built by [Rahimi Tech Solution](https://github.com/AbdulRahmanRahimi) · The source code is private to the client.
 
 A dual-currency (AFN ؋ / USD $), bilingual (English / Pashto) **double-entry ERP** for a cooking-oil and sugar import and distribution business that imports from Malaysia into Afghanistan.
 
